@@ -12,56 +12,26 @@ header:
 <div data-magellan-expedition="fixed">
   <ul class="sub-nav">
     <li data-magellan-arrival="2021"><a href="#2021">2021</a></li>
-    <li data-magellan-arrival="2020"><a href="#2020">2020</a></li>
     <li data-magellan-arrival="2019"><a href="#2019">2019</a></li>
     <li data-magellan-arrival="2018"><a href="#2018">2018</a></li>
     <li data-magellan-arrival="2017"><a href="#2017">2017</a></li>
     <li data-magellan-arrival="2016"><a href="#2016">2016</a></li>
     <li data-magellan-arrival="2015"><a href="#2015">2015</a></li>
-    <li data-magellan-arrival="All"><a href="#All">All</a></li>
   </ul>
 </div>
 
 <h2 data-magellan-destination="2021">2021</h2>
 <a name="2021"></a>
 
-{% include publication authors="James CA, Ronning P, Cullinan D, Cotto KC, Barnell EK, Campbell KM, Skidmore ZL, Sanford DE, Goedegebuure SP, Gillanders WE, Griffith OL, Hawkins WG, Griffith M" title="In Silico Epitope Prediction Analyses Highlight the Potential for Distracting Antigen Immunodominance with Allogeneic Cancer Vaccines" journal="Cancer Research Communications 2021 Nov" doi="10.1158/2767-9764.CRC-21-0029" %}
+{% include publication authors="Benqi Wang, Zunaira Farooq, Lei Chu, Jie Liu, Huadong Wang, Jian Guo, Jinxing Tu, Chaozhi Ma, Cheng Dai, Jin Wen, Jinxiong Shen, Tingdong Fu, **Bin Yi**" title="High-generation near-isogenic lines combined with multi-omics to study the mechanism of polima cytoplasmic male sterility" journal="BMC Plant Bipology 2021 Mar" doi="10.1186/s12870-021-02852-7" pmid="33673810" %}
 
-{% include publication authors="Skidmore ZL, Campbell KM, Cotto KC, Griffith M, Griffith OL" title="Exploring the Genomic Landscape of Cancer Patient Cohorts with GenVisR" journal="Curr Protoc. 2021 Sept 10" doi="10.1002/cpz1.252" pmid="34506690" %}
+{% include publication authors="Qing Xiao, Huadong Wang, Hui Chen, Xiaohan Chen, Jing Wen, Cheng Dai, Chaozhi Ma, Jinxing Tu, Jinxiong Shen, Tingdong Fu, Bin Yi" title="Molecular Analysis Uncovers the Mechanism of Fertility Restoration in Temperature-Sensitive Polima Cytoplasmic Male-Sterile Brassica napus" journal="Int J Mol Sci. 2021 Nov" doi="10.3390/ijms222212450" pmid="34830333" %}
 
-{% include publication authors="Ademuyiwa FO, Chen I, Luo J, Rimawi MF, Hagemann IS, Fisk B, Jeffers G, Skidmore ZL, Basu A, Richters M, Ma CX, Weilbaecher K, Davis J, Suresh R, Peterson LL, Bose R, Bagegni N, Rigden CE, Frith A, Rearden TP, Hernandez-Aya LF, Roshal A, Clifton K, Opyrchal M, Akintola-Ogunremi O, Lee BH, Ferrando-Martinez S, Church SE, Anurag M, Ellis MJ, Gao F, Gillanders W, Griffith OL, Griffith M" title="Immunogenomic profiling and pathological response results from a clinical trial of docetaxel and carboplatin in triple-negative breast cancer" journal="Breast Cancer Res Treat
-. 2021 Aug" doi="10.1007/s10549-021-06307-3" pmid="34173924" %}
+{% include publication authors="Huadong Wang, Qing Xiao, Chao Wei, Hui Chen, Xiaohan Chen, Cheng Dai, Jing Wen, Chaozhi Ma, Jinxing Tu, Tingdong Fu, Jinxiong Shen, Bin Yi" title="A mitochondria-localized pentatricopeptide repeat protein is required to restore hau cytoplasmic male sterility in Brassica napus" journal="Theor Appl Genet. 2021 May" doi="10.1007/s00122-021-03777-3" pmid="33725137" %}
 
-{% include publication authors="Barnell EK, Kang Y, Barnell AR, Kruse KR, Fiske J, Pittz ZR, Khan AR, Huebner TA, Holmes FL, Griffith M, Griffith OL, Chauduri AA, Wurtzler EM" title="Multitarget Stool RNA Test for Noninvasive Detection of Colorectal Neoplasias in a Multicenter, Prospective, and Retrospective Cohort" journal="Clin Transl Gastroenterol. 2021 May 24" doi="10.14309/ctg.0000000000000360" pmid="34029233" %}
+{% include publication authors="Qing Xiao, Huadong Wang, Nuan Song, Zewen Yu, Khan Imran, Weibo Xie, Shuqing Qiu, Fasong Zhou, Jing Wen, Cheng Dai, Chaozhi Ma, Jinxing Tu, Jinxiong Shen, Tingdong Fu, Bin Yi" title="The Bnapus50K array: a quick and versatile genotyping tool for Brassica napus genomic breeding and research" journal="G3 (Bethesda). 2021 Sep 27" doi="10.1093/g3journal/jkab241" pmid="34568935" %}
 
-{% include publication authors="Cheng X, Joseph A, Castro V, Chen-Liaw A, Skidmore ZL, Ueno T, Fujisawa J, Rauch DA, Challen GA, Martinez MP, Green P, Griffith M, Payton JE, Edwards JR, Ratner L" title="Epigenomic regulation of human T-cell leukemia virus by chromatin-insulator CTCF" journal="PLoS Pathog. 2021 May 21" doi="10.1371/journal.ppat.1009577" pmid="34019588" %}
-
-{% include publication authors="Mudianto T, Campbell KM, Webb J, Zolkind, Skidmore ZL, Riley R, Barnell EK, Oxgenc I, Giri T, Dunn GP, Adkins DR, Griffith M, Egloff AN, Griffith OL, Uppaluri R" title="Yap1 Mediates Trametinib Resistance in Head and Neck Squamous Cell Carcinomas" journal="Clin Cancer Res. 2021 Apr 15" doi="10.1158/1078-0432.CCR-19-4179" pmid="33547198" %}
-
-{% include publication authors="Gomez F,  Griffith M, Griffith OL" title="Genetic Ancestry Correlations with Driver Mutations Suggest Complex Interactions between Somatic and Germline Variation in Cancer" journal="Cancer Discov. 2021 Mar 11" doi="10.1158/2159-8290.CD-21-0092" pmid="33653917" %}
-
-{% include publication authors="Chu S, Skidmore ZL, Kunisaki J, Walker JR, Griffith M, Griffith OL, Bryan JN" title="Unraveling the chaotic genomic landscape of primary and metastatic canine appendicular osteosarcoma with current sequencing technologies and bioinformatic approaches" journal="PLoS One. 2021 Feb 8" doi="10.1371/journal.pone.0246443" pmid="33556121" %}
-
-{% include publication authors="Barnell EK, Newcomer NF, Skidmore ZL, Krysiak K, Anderson SR, Wartman LD, Oh ST, Welch JS, Stockerl-Goldstein KE, Vij R, Cashen AF, Pusic I, Westervelt P, Abboud CN, Ghobadi A, Uy GL, Schroeder MA, Dipersio JF, Politi MC, Spencer DH, Duncavage EJ, Ley TJ, Griffith M, Jacoby MA, Griffith OL" title="Impact of a 40-Gene Targeted Panel Test on Physician Decision Making for Patients With Acute Myeloid Leukemia" journal="JCO Precis Oncol. 2021 Jan 14" doi="10.1200/PO.20.00182" pmid="34036230" %}
-
-{% include publication authors="Freshour SL, Kiwala S*, Cotto KC*, Coffman AC, McMichael FJ, Song JJ, Griffith M+, Griffith OL+, Wagner AH+" title="Integration of the Drug–Gene Interaction Database (DGIdb 4.0) with open crowdsource efforts" journal="Nucleic Acids Res. 2021 Jan 8" doi="10.1093/nar/gkaa1084" pmid="33237278" %}
-
-<h2 data-magellan-destination="2020">2020</h2>
-<a name="2020"></a>
-
-{% include publication authors="Uppaluri R, Campbell KM, Egloff AM, Zolkind P, Skidmore ZL, Nussenbaum B, Paniello RC, Rich JT, Jackson R, Pipkorn P, Michel LS, Ley J, Oppelt P, Dunn GP, Barnell EK, Spies NC, Lin T, Li T, Mulder D, Hanna Y, Cirlan I, Pugh TJ, Mudianto T, Riley R, Zhou L, Jo VY, Stachler MD, Hanna GJ, Kass JI, Haddad RI, Schoenfeld JD, Gjini E, Lako A, Thorstad WL, Gay HA, Daly M, Rodig S, Hagemann IS, Kallogjeri D, Piccirillo JF, Chernock RD, Griffith M, Griffith OL, Adkins DR" title="Neoadjuvant and Adjuvant Pembrolizumab in Resectable Locally Advanced, Human Papillomavirus-Unrelated Head and Neck Cancer: A Multicenter, Phase 2 Trial" journal="Clin Cancer Res. 2020 Jul 14." doi="10.1158/1078-0432.CCR-20-1695" pmid="32665297" %}
-
-{% include publication authors="Rao S, Pitel B, Wagner AH, Boca SM, McCoy M, King I, Gupta S, Park BH, Warner JL, Chen J, Rogan PK, Chakravarty D, Griffith M, Griffith OL, Madhavan S" title="Collaborative, Multidisciplinary Evaluation of Cancer Variants Through Virtual Molecular Tumor Boards Informs Local Clinical Practices" journal="JCO Clin Cancer Inform. 2020 Jul;4:602-613" doi="10.1200/CCI.19.00169" pmid="32644817" %}
-
-{% include publication authors="De Mattos-Arruda L, Vazquez M, Finotello F, Lepore R, Porta E, Hundal J, Amengual-Rigo P, Ng CKY, Valencia A, Carrillo J, Chan TA, Guallar V, McGranahan N, Blanco J, Griffith M" title="Neoantigen prediction and computational perspectives towards clinical benefit: Recommendations from the ESMO Precision Medicine Working Group" journal="Ann Oncol. 2020 Aug;31(8):978-990." doi="10.1016/j.annonc.2020.05.008" pmid="32610166" %}
-
-{% include publication authors="Wagner AH, Walsh B, Mayfield G, Tamborero D, Sonkin D, Krysiak K, Deu-Pons J, Duren RP, Gao J, McMurry J, Patterson S, Del Vecchio Fitz C, Pitel BA, Sezerman OU, Ellrott K, Warner JL, Rieke DT, Aittokallio T, Cerami E, Ritter DI, Schriml LM, Freimuth RR, Haendel M, Raca G, Madhavan S, Baudis M, Beckmann JS, Dienstmann R, Chakravarty D, Li XS, Mockus S, Elemento O, Schultz N, Lopez-Bigas N, Lawler M, Goecks J, Griffith M+, Griffith OL+, Margolin AA; Variant Interpretation for Cancer Consortium" title="A harmonized meta-knowledgebase of clinical interpretations of somatic genomic variants in cancer" journal="Nat Genet. 2020 Apr;52(4):448-457" doi="10.1038/s41588-020-0603-8" pmid="32246132" %}
-
-{% include publication authors="Wagner AH, Kiwala S, Coffman AC, McMichael JF, Cotto KC, Mooney TB, Barnell EK, Krysiak K, Danos AM, Walker J, Griffith M+, Griffith OL+" title="CIViCpy: A Python Software Development and Analysis Toolkit for the CIViC Knowledgebase" journal="JCO CCI. 2020 Mar 19; 4, 245-253" doi="10.1200/CCI.19.00127" pmid="32191543" %}
-
-{% include publication authors="Hundal J, Kiwala S, McMichael J, Miller CA, Xia H, Wollam AT, Liu CJ, Zhao S, Feng YY, Graubert AP, Wollam AZ, Neichin J, Neveau M, Walker J, Gillanders WE, Mardis ER, Griffith OL+, Griffith M+" title="pVACtools: A Computational Toolkit to Identify and Visualize Cancer Neoantigens" journal="Cancer Immunol Res. 2020 Mar;8(3):409-420" doi="10.1158/2326-6066.CIR-19-0401" pmid="31907209" %}
-
-{% include publication authors="Chu S, Wylie TN, Wylie KM, Johnson GC, Skidmore ZL, Fleer M, Griffith OL, Bryan JN" title="A virome sequencing approach to feline oral squamous cell carcinoma to evaluate viral causative factors" journal="Vet Microbiol. 2020 Jan;240:108491." doi="10.1016/j.vetmic.2019.108491" pmid="31902496" %}
+<hr>
 
 <h2 data-magellan-destination="2019">2019</h2>
 <a name="2019"></a>
