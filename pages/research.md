@@ -12,7 +12,7 @@ header:
 <div data-magellan-expedition="fixed">
   <ul class="sub-nav">
     <li data-magellan-arrival="Overview"><a href="#Overview">Overview</a></li>
-    <li data-magellan-arrival="Breast_cancer_genomics"><a href="#Breast_cancer_genomics">Breast cancer</a></li>
+    <li data-magellan-arrival="Origin_and evolution_of_B.napus"><a href="#Origin_and_evolution">Origin and evolution</a></li>
   </ul>
 </div>
 
@@ -24,8 +24,8 @@ header:
 
 <hr>
 
-<h2 data-magellan-destination="Breast_cancer_genomics">Breast cancer genomics</h2>
-<a name="Breast_cancer_genomics"></a>
+<h2 data-magellan-destination="Origin_and_evolution">Origin and evolution</h2>
+<a name="Origin_and_evolution"></a>
 
 {% include project
   title="Genomic analysis of the Stat1-/- mouse model of ER+ breast cancer"
