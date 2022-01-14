@@ -41,7 +41,7 @@ header:
 
   team="Obi Griffith, Malachi Griffith, Kilannin Krysiak, Zachary Skidmore, Jasreet Hundal, Lee Trani"
 
-  image="/assets/img/research/Stat1_slider_image.png"
+  image="/assets/img/research/anhong_nature2019.png"
 
   citation="Griffith, Chan et al. 2016. Cell Reports. 17(1):249-60."
 
