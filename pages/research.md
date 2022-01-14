@@ -12,7 +12,7 @@ header:
 <div data-magellan-expedition="fixed">
   <ul class="sub-nav">
     <li data-magellan-arrival="Overview"><a href="#Overview">Overview</a></li>
-    <li data-magellan-arrival="Origin_and evolution_of_B.napus"><a href="#Origin_and_evolution">Origin and evolution</a></li>
+    <li data-magellan-arrival="Origin_and evolution"><a href="#Origin_and_evolution">Origin</a></li>
   </ul>
 </div>
 
