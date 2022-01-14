@@ -36,7 +36,7 @@ header:
 
   image="/assets/img/research/anhong_nature2019.png"
 
-  citation="[Hong an et al. Nat Commun. 2019 Jun 28;10(1):2878.](https://pubmed.ncbi.nlm.nih.gov/31253789/)"
+  citation="Hong an et al. Nat Commun. 2019 Jun 28;10(1):2878."
 
-  PMID="31253789"
+  pmid="31253789"
 %}
