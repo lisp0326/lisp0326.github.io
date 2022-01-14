@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 permalink: "/publications/"
 header:
-    image_fullwidth: "anhong-nature2019.png"
+    image_fullwidth: "brnapus.png"
 ---
 
 <div data-magellan-expedition="fixed">
