@@ -1,6 +1,7 @@
 ---
 layout: page-fullwidth
 title: "Software"
+sitemap: false
 meta_title: ""
 subheadline: ""
 teaser: ""
