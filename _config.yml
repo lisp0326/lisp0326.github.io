@@ -43,7 +43,7 @@ urlimg: 'https://lisp0326.github.io/images/'
 
 
 # Logo size is 600x80 pixels
-# logo: "Site_Logo4.png"
+logo: "site_logo.png"
 
 # Gems
 gems:
