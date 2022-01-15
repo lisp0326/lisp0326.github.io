@@ -24,7 +24,7 @@ permalink: /index.html
 #
 homepage: true
 header:
-    image_fullwidth: "brnapus2.png"
+    image_fullwidth: "brnapus.png"
 ---
 
 
