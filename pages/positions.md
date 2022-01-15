@@ -3,7 +3,7 @@ layout: page-fullwidth
 title: "Positions"
 permalink: "/join/positions/"
 header:
-    image_fullwidth: "genvis-dna-bg_optimized_v1a.png"
+    image_fullwidth: "brnapus.png"
 ---
 
 <div data-magellan-expedition="fixed">
