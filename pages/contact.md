@@ -13,7 +13,7 @@ header:
 </div>
 
 <div class="row">
-    <div class="small-6 columns">
+    <div class="small-5 columns">
     <h5>Bin Yi</h5>
     <p>
       <b>phone:</b> 027-87281676<br>
