@@ -7,6 +7,7 @@ teaser: ""
 permalink: "/software/"
 header:
     image_fullwidth: "genvis-dna-bg_optimized_v1a.png"
+robots: noindex
 ---
 
 <div data-magellan-expedition="fixed">
