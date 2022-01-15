@@ -31,7 +31,7 @@ url: 'https://lisp0326.github.io'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/griffithlab/griffithlab.github.io/edit/master/
+#improve_content: https://github.com/lisp0326/lisp0326.github.io/edit/master/
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
