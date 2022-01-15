@@ -19,7 +19,7 @@ header:
 <h2 data-magellan-destination="Principal_Investigators">Principal Investigators</h2>
 <a name="Principal_Investigators"></a>
 
-{% include team_member member_name="Bin" full_name="Bin Yi, PhD" bio='Dr. Bin Yi is a Professor of National Key Laboratory of Crops Genetic Improvement of the Huazhong Agricultural University  <a href="http://cpst.hzau.edu.cn/info/1078/2379.htm">. Dr. Bin Yi’s research is focused on Rapeseed heterosis  utilization and mechanisms of CMS in Brassica napus L.. ' image="/assets/img/team/malachi_griffith.jpg" role="Principal Investigator" %}
+{% include team_member member_name="Bin" full_name="Bin Yi, PhD" bio='Dr. Bin Yi is a Professor of National Key Laboratory of Crops Genetic Improvement of the Huazhong Agricultural University  <a href="http://cpst.hzau.edu.cn/info/1078/2379.htm">. Dr. Bin Yi’s research is focused on Rapeseed heterosis  utilization and mechanisms of CMS in Brassica napus L.. ' image="/assets/img/team/binyi_hzau.png" role="Principal Investigator" %}
 
 
 
