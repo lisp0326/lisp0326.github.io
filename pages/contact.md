@@ -8,7 +8,7 @@ header:
 
 <div class="row">
     <div class="small-12 small-centered columns">
-        <img src="/assets/img/site_map.jpg">
+        <img src="/assets/img/site_map.png">
     </div>
 </div>
 
