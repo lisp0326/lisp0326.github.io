@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Xiao Qing's paper was accepted in the International Journal of Molecular Sciences"
+title:  "Xiao Qing's paper was published in the International Journal of Molecular Sciences"
 teaser: "Molecular Analysis Uncovers the Mechanism of Fertility Restoration in Temperature-Sensitive Polima Cytoplasmic Male-Sterile Brassica napus."
 header:
     image_fullwidth: "brnapus.png"
