@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Lab Publication - Blood First Edition"
+title:  "Flower buds of pol CMS"
 teaser: "Comparative transcript profiling of the fertile and sterile flower buds of pol CMS in B. napus"
 header:
     image_fullwidth: "brnapus.png"
