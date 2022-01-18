@@ -12,6 +12,6 @@ Temperature-sensitive male sterility is a heritable agronomic trait affected by 
 
 <div class="row">
     <div class="small-12 columns">
-        <img src="/assets/img/paper/xiaoqing2021_int.png">
+        <img src="/assets/img/research/xiaoqing2021_int.png">
     </div>
 </div>
